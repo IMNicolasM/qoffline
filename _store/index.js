@@ -1,5 +1,5 @@
-import master from '@imagina/qoffline/_store/offline/index'
+import master from '@imagina/qoffline/_store/master/index'
 
 export default {
-  master : master
+  master
 }
